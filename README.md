@@ -1,5 +1,5 @@
 # 💫 About Me:
-"I am a graduate with a bachelor's degree in Computer Science at the University of Bologna, interested in the fields of game development, making, web development."<br>
+"I am a graduate with a bachelor's degree in Computer Science at the University of Bologna, interested in the fields of game development, making, web development and AR/VR"<br>
 
 
 ## 🌐 Socials:
